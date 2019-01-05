@@ -4,6 +4,7 @@
 # But not these files...
 !.gitignore
 !authorized_keys
+!known_hosts
 !README.md
 
 # ...even if they are in subdirectories
